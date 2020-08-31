@@ -19,4 +19,5 @@
 1. assign an elastic ip to the network interface created in step 7
 1. create ubuntu server and install/enable apache2
 
-
+## Links:
+https://www.youtube.com/watch?v=SLB_c_ayRMo
