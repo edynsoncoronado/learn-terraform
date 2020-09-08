@@ -19,5 +19,12 @@
 1. assign an elastic ip to the network interface created in step 7
 1. create ubuntu server and install/enable apache2
 
+## Project2:
+1. Create compute with miniconda
+1. Execute user_data, download d2l
+1. log userdata: tail -f /var/log/cloud-init-output.log
+
 ## Links:
 https://www.youtube.com/watch?v=SLB_c_ayRMo
+
+https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180
